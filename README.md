@@ -1,2 +1,4 @@
 # Bandwidth-Monitor
-This will tell you how much bandwidth you use on the network.
+This is a tool written in Python which tells you how much bandwidth you use on the network.
+
+
